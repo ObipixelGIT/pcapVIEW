@@ -62,7 +62,7 @@ options:
   --dstport      Display DST PORTs for shown connections
 ```
 
-Basic:
+Syntax:
 ```bash
 sudo python3 pcapVIEW.py --input [pcap file] --host [ip address] --tcp --udp --srcport --dstport
 ```
