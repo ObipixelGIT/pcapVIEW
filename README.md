@@ -69,7 +69,7 @@ sudo python3 pcapVIEW.py --input [pcap file] --host [ip address] --tcp --udp --s
 
 Example Command
 ```bash
-sudo python3 pcapView.py --input sample.pcap --host 192.168.1.10 --tcp --udp --srcport --dstport
+sudo python3 pcapView.py --input pcapVIEW-sample.pcap --host 192.168.1.10 --tcp --udp --srcport --dstport
 ```
 
 
